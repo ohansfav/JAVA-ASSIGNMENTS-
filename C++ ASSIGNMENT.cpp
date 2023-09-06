@@ -2,14 +2,14 @@
 
 using namespace std;
 //C++ TO ADD TWO NUMBERS
-using std::cout;
-using std::cin;
+using std::cout; //for output
+using std::cin;  // for input
 
 int main()
 {
-    int number1;
-    int number2;
-    int sum;
+    int number1; //declaring first variable 
+    int number2; // second variable 
+    int sum;     // sum of both variables 
     number1 = 25;
     number2 = 15;
     //to add two number
