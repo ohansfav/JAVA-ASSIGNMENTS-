@@ -14,7 +14,7 @@ public class Assignment {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("welcome to java");
+        System.out.println("welcome to java");// prints welcome to java
     }
     
 }
