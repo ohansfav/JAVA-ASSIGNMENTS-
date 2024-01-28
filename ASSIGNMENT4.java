@@ -1,5 +1,7 @@
 
-package assignment.pkg4;
+//package assignment.pkg4;
+
+//main class
 
 public class ASSIGNMENT4 {
 
