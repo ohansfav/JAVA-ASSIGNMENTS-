@@ -1,5 +1,5 @@
 
-//package assignment.pkg4;
+//package assignment.pkg4; using netbean
 
 //main class
 
