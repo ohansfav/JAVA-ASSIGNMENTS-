@@ -1,4 +1,4 @@
-package assignment.pkg9;
+//package assignment.pkg9; for netbeans
 public class ASSIGNMENT9 {
    public static void main(String[] args) {
          //SIMPLE PROGRAM FOR CALCULATING AREA 
