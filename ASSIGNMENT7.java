@@ -1,5 +1,5 @@
 
-package assignment.pkg7;
+//package assignment.pkg7; for netbeans
 
 public class ASSIGNMENT7 {
 
