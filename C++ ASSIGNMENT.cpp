@@ -2,7 +2,7 @@
 
 using namespace std;
 //C++ TO ADD TWO NUMBERS
-using std::cout; //for output
+using std::cout; //for output operation
 using std::cin;  // for input
 
 int main()
