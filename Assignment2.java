@@ -1,5 +1,5 @@
 
-//package assignment.pkg2; for netbeans 
+//package assignment.pkg2; for netbeans ...
 
 public class Assignment2 {
 
