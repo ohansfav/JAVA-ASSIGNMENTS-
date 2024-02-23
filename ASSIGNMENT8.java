@@ -1,7 +1,7 @@
 //package assignment.pkg9; for netbeans.......
 public class ASSIGNMENT9 {
    public static void main(String[] args) {
-         //SIMPLE PROGRAM FOR CALCULATING AREA 
+         //SIMPLE PROGRAM FOR CALCULATING AREA ...
         //THE FORMULAR FOR AREA OF A CIRCLE IS 
         //AREA = PI*RADIUS^2
         double  area; 
