@@ -1,5 +1,5 @@
 
-//package assignment.pkg5; using netbean ..........
+//package assignment.pkg5; using netbean ............
  
 public class ASSIGNMENT5 {
    public static void main(String[] args) {
